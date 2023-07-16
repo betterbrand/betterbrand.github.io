@@ -17,3 +17,6 @@ https://betterbrand.github.io/bb/1xname-and-hat.svg <br>
 https://betterbrand.github.io/bb/1xname-only.svg <br>
 https://betterbrand.github.io/bb/1xtreatment.png <br>
 https://betterbrand.github.io/bb/1xwhole-treatment.svg <br>
+
+horiz:
+https://raw.githubusercontent.com/betterbrand/betterbrand.github.io/5f69880be6d48b476a915f747597e17a9727beb7/pub_img/bb/horiz-treatment.png
